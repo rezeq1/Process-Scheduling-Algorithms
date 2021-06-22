@@ -1,5 +1,17 @@
 # Process-Scheduling-Algorithms
 
+The program implements the following CPU scheduling algorithms
+1. First Come First Serve
+2. Shortest Job First
+3. Priority
+4. Round Robin
+5. Priority with Round Robin
+
+
+The program reads a list of tasks from a file and then schedules them based on the chosen scheduling algorithm.
+
+The program gets the file name from command line.as an argument.
+
 
 To run the code :
 
