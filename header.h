@@ -4,11 +4,6 @@
 #define MAX 10
 #define MAX_LEN 256
 
-/*
-Rezeq Abu Madeghem 211606801
-Omar Hmdea 206635922
-*/
-
 typedef struct task
 {
 
