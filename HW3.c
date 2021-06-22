@@ -1,10 +1,5 @@
 #include "header.h"
 
-/*
-Rezeq Abu Madeghem 211606801
-Omar Hmdea 206635922
-*/
-
 int main(int argc,char* argv[])
 {
 
